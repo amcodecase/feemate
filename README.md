@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 # feemate
-=======
+
 # **FeeMate - WhatsApp-Based Fee Payment System**
 
 **FeeMate** is a simple, secure, and user-friendly fee payment system that enables students at Zambian universities and colleges to pay their fees using **Mobile Money** (MTN MoMo, Airtel Money) via **WhatsApp**. The entire process, from checking fees to confirming the payment, happens within WhatsApp until the student needs to authorize the payment with their **Mobile Money PIN** via **USSD**. After entering the PIN, the student receives payment confirmation in WhatsApp.
@@ -176,4 +175,3 @@ Feel free to fork the repository and submit pull requests for improvements or bu
 For any inquiries, contact the project maintainer at [info@natec.icu].
 
 ---
->>>>>>> master
